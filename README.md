@@ -1,10 +1,10 @@
 # atividade-final-tarefas
 
-A Clojure library designed to ... well, that part is up to you.
-
+Atividade desenvolvida em Clojure, linguagem que utiliza o paradigma da programação funcional
 ## Usage
 
-FIXME
+Criar lista de tarefas
+Permitir acrescentar, excluir e listar tarefas
 
 ## License
 
